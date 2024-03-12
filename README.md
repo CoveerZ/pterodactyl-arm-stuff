@@ -1,5 +1,5 @@
 # pterodactyl-arm-stuff
-Modified versions of eggs for Pterodactyl modified for ARM. Also a bunch of yolks made specifically for ARM.
+Modified versions of eggs for Pterodactyl for ARM. Also a bunch of yolks made specifically for ARM.
 
 # Eggs
 a.k.a. installers' scripts that Pterodactyl uses
